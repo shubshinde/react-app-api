@@ -1,4 +1,4 @@
-# React App using ReactQuery libraray
+# React App using ReactQuery library
 
 This project was bootstrapped with
 [Create React App](https://github.com/facebook/create-react-app).
